@@ -1,0 +1,28 @@
+[
+    {
+        "conditions": [
+            {
+                "field": "from_email",
+                "operator": "contains",
+                "value": "realpython.com"
+            },
+            {
+                "field": "subject",
+                "operator": "contains",
+                "value": "Calculator"
+            },
+            {
+                "field": "received_date",
+                "operator": "is less than",
+                "value": "1",
+                "unit": "day"
+            }
+        ],      
+        "actions": {
+            "move": "INBOX",
+            "mark":"unread"
+        }
+      ,
+      "conditions_satisfied": "all"
+    }
+]
