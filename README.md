@@ -3,6 +3,7 @@
 
 Automation Script Documentation
 
+Link for Video Demo: https://drive.google.com/file/d/1icz7t59QfLrXDmh2Qe_RKRIbr6jlndtp/view?usp=sharing
 
 Installation:
 Clone this repository from GitHub:
