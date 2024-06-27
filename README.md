@@ -25,3 +25,9 @@ MySQL on system is required and creation of database and table as well
 Script to execute in order:
 1] fetch_and_insert_mail.py
 2] rule_based_action_on_mail.py
+
+
+Scope of Improvements:
+
+1] add more test cases
+2] rules builder if more complex capability is required
